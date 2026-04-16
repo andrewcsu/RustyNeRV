@@ -1,0 +1,1 @@
+PSNR/ms_ssim on validate set for bit -1 with axis 0: 31.89/0.9613

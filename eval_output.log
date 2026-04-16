@@ -1,0 +1,11 @@
+Args { vid: [-1], scale: 1, frame_gap: 1, augment: 0, dataset: "bunny", test_gap: 1, embed: "1.25_40", stem_dim_num: "512_1", fc_hw_dim: "9_16_26", expansion: 1.0, reduction: 2, strides: [5, 2, 2, 2, 2], num_blocks: 1, norm: "none", act: "swish", lower_width: 96, single_res: true, conv_type: "conv", workers: 4, batch_size: 1, not_resume_epoch: false, epochs: 300, cycles: 1, warmup: 0.2, lr: 0.0005, lr_type: "cosine", lr_steps: [], beta: 0.5, loss_type: "Fusion6", lw: 1.0, sigmoid: false, eval_only: true, eval_freq: 50, quant_bit: -1, quant_axis: 0, dump_images: true, eval_fps: false, prune_steps: [0.0], prune_ratio: 1.0, manual_seed: 1, debug: false, print_freq: 50, weight: "output/bunny_ab/bunny/embed1.25_40_512_1_fc_9_16_26__exp1_reduce2_low96_blk1_cycle1_gap1_e300_warm60_b1_conv_lr0.0005_cosine_Fusion6_Strd5,2,2,2,2_SinRes_actswish_/model_val_best.pth", overwrite: false, outf: "bunny_ab", suffix: "" }
+Model Params: 3.2019M
+Loading checkpoint 'output/bunny_ab/bunny/embed1.25_40_512_1_fc_9_16_26__exp1_reduce2_low96_blk1_cycle1_gap1_e300_warm60_b1_conv_lr0.0005_cosine_Fusion6_Strd5,2,2,2,2_SinRes_actswish_/model_val_best.pth'
+Loaded checkpoint 'output/bunny_ab/bunny/embed1.25_40_512_1_fc_9_16_26__exp1_reduce2_low96_blk1_cycle1_gap1_e300_warm60_b1_conv_lr0.0005_cosine_Fusion6_Strd5,2,2,2,2_SinRes_actswish_/model_val_best.pth'
+Dataset size: 132 frames
+Evaluation ...
+Saving predictions to output/bunny_ab/bunny/embed1.25_40_512_1_fc_9_16_26__exp1_reduce2_low96_blk1_cycle1_gap1_e300_warm60_b1_conv_lr0.0005_cosine_Fusion6_Strd5,2,2,2,2_SinRes_eval_actswish_/visualize
+Step [1/132], PSNR: 30.20, MSSSIM: 0.9523 FPS: 1.10
+Step [51/132], PSNR: 29.63, MSSSIM: 0.9403 FPS: 34.01
+Step [101/132], PSNR: 31.53, MSSSIM: 0.9560 FPS: 48.32
+PSNR/ms_ssim on validate set for bit -1 with axis 0: 31.89/0.9613
