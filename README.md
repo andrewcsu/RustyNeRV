@@ -1,4 +1,4 @@
-# NeRV-Rust: Neural Representations for Videos (Rust)
+# RustyNeRV: Neural Representations for Videos (Rust)
 
 A complete Rust rewrite of [NeRV (NeurIPS 2021)](https://arxiv.org/abs/2110.13903) using **tch-rs** (libtorch bindings) with full CUDA/GPU support.
 
