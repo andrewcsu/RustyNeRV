@@ -1,0 +1,11 @@
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/fax-4d47fa797f16c711.d: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/libfax-4d47fa797f16c711.rlib: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/libfax-4d47fa797f16c711.rmeta: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs
+
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/lib.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/maps.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/decoder.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/encoder.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fax-0.2.6/src/tiff.rs:

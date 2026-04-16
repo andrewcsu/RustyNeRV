@@ -1,0 +1,9 @@
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/pastey-52c5d811e3a90b07.d: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/attr.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/error.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/segment.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/../README.md
+
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/libpastey-52c5d811e3a90b07.so: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/attr.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/error.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/segment.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/../README.md
+
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/lib.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/attr.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/error.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/segment.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pastey-0.1.1/src/../README.md:

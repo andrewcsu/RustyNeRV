@@ -1,0 +1,14 @@
+[package]
+name = "nerv-rust"
+version = "0.1.0"
+edition = "2021"
+description = "NeRV: Neural Representations for Videos — Rust implementation using tch-rs (libtorch)"
+
+[dependencies]
+tch = "0.15"
+clap = { version = "4", features = ["derive"] }
+image = "0.25"
+indicatif = "0.17"
+rand = "0.8"
+anyhow = "1"
+chrono = "0.4"

@@ -1,0 +1,10 @@
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/version_check-5bcc4c7e177ed725.d: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/libversion_check-5bcc4c7e177ed725.rlib: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/nas/longleaf/home/andrewsu/comp590/nerv-rust/target/release/deps/libversion_check-5bcc4c7e177ed725.rmeta: /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs /nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs
+
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/lib.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/version.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/channel.rs:
+/nas/longleaf/home/andrewsu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/version_check-0.9.5/src/date.rs:
